@@ -1,7 +1,7 @@
 # estudo_alura_imersao_java_spring_2023-03
 Estudo Alura Imersão Java Spring 2023-03
 
-# AULA 4 (main)
+# AULA 5
 # Imersão Java Spring
 Este repositório conterá o código das aulas da segunda edição da Imersão Java Spring da Alura.
 
